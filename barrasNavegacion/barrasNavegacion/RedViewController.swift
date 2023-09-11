@@ -15,7 +15,7 @@ class RedViewController: UIViewController {
         errorLabel.text = ""
     }
     
-    var usuarios = ["cesar.gd2012@hotmail.com": "hola1234","ing.cesarguadarrama@gmail.com":"unam9876", "cesar1234": "hola1234" ]
+    var usuarios = ["cesar.gd2012@hotmail.com": "hola1234","ing.cesarguadarrama@gmail.com":"unam9876", "cesar1234": "hola1234", "user": "password"]
     
     
     @IBOutlet var usernameText: UITextField!
